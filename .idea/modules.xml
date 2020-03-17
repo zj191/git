@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-svn/demo-svn.iml" filepath="$PROJECT_DIR$/demo-svn/demo-svn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/git.iml" filepath="$PROJECT_DIR$/git/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svn.iml" filepath="$PROJECT_DIR$/svn.iml" />
+    </modules>
+  </component>
+</project>
